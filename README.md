@@ -1,6 +1,4 @@
-Sure! Here's a **short and clear `README.md`** that explains the setup and usage:
 
----
 
 
 # 🚀 FastAPI + Streamlit Template
